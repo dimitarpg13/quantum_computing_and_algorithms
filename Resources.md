@@ -19,3 +19,7 @@
 
 [Geometric Interpretation, part 1](https://youtu.be/xD2iqmI9LzY?si=3EhG_-r14E0zRzIA)
 
+[Geometric Interpretation, part 2](https://youtu.be/f-2b3F6PF6c?si=ErDpBUjAkIbuaO_y)
+
+[Uncertainty Principle](https://youtu.be/YgxiSIcfG4E?si=F71YuUPpB2ZnGacy)
+
