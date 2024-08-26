@@ -10,6 +10,14 @@
 
 [Principles of Quantum Mechanics, R. Shankar, 2nd Edition, 1994](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/shankar_principles_of_quantum_mechanics.pdf)
 
+[Introduction to Quantum Mechanics, David J. Griffiths, Darrel F. Schroeter, 3rd Ed, 2018](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Introduction_to_Quantum_Mechanics-David_J_Griffiths_3rd_Ed.pdf)
+
+[The Feynman Lectures on Physics: Vol III Quantum Mechanics, 2010](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/The_Feynman_Lectures_on_Quantum_Mechanics_Vol_III.pdf)
+
+[Quantum Electrodynamics, R. Feynman, Lecture Note and Reprint Volume, 1961](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/quantumelectrodynamics_feynmann.pdf)
+
+[Quantum Theory for Mathematicians, Brian C. Hall, 2013](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/QuantumTheory_For_Mathematicians_Hall_2013.pdf)
+
 ## videos
 
 ### ICTP-SAIFR
@@ -34,6 +42,7 @@
 
 [Uncertainty Principle](https://youtu.be/YgxiSIcfG4E?si=F71YuUPpB2ZnGacy)
 
+[Lecture Notes by Umesh Vazirani, CS294-2: Quantum Computation, UC Berkeley, 2007](https://people.eecs.berkeley.edu/~vazirani/quantum.html)
 
 ### Quantum Physics and Quantum Mechanics Courses
 
