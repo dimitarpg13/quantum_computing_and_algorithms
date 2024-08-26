@@ -7,3 +7,4 @@ books/QuantumTheory_For_Mathematicians_Hall_2013.pdf filter=lfs diff=lfs merge=l
 books/Quantum_Computation_And_Quantum_Information-Nielsen_and_Chuan_10th_Anniv_Ed.pdf filter=lfs diff=lfs merge=lfs -text
 books/The_Feynman_Lectures_on_Quantum_Mechanics_Vol_III.pdf filter=lfs diff=lfs merge=lfs -text
 books/quantumelectrodynamics_feynmann.pdf filter=lfs diff=lfs merge=lfs -text
+articles/Quantum_Probability_and_Quantum_Information_Theory_Maassen.pdf filter=lfs diff=lfs merge=lfs -text
