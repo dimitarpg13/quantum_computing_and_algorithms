@@ -25,3 +25,12 @@
 
 [Uncertainty Principle](https://youtu.be/YgxiSIcfG4E?si=F71YuUPpB2ZnGacy)
 
+
+### Quantum Physics and Quantum Mechanics Courses
+
+#### MIT 8.04 | Spring 2013 
+
+[MIT 8.04 | Spring 2013 main page](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/)
+
+[MIT 8.04 | Spring 2013 videos](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/video_galleries/lecture-videos/)
+
