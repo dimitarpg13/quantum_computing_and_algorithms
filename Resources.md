@@ -13,6 +13,8 @@
 
 ### UC Berkeley - Umesh Vazirani
 
+[The whole series on Quantum Mechanics and Quantum Computation on youtube](https://www.youtube.com/playlist?list=PLAp-VUNhIcBm40hRgg7LKTo8xCkJII3pY)
+
 #### Lecture 2
 
 [Quibits](https://youtu.be/xGAyI5fufmk?si=17TRTa1Smwi_Kp7t)
