@@ -2,3 +2,8 @@ books/Liboff-Introductory_Quantum_Mechanics.pdf filter=lfs diff=lfs merge=lfs -t
 books/Quantum_Physics-Stephen_Gasiorowicz.pdf filter=lfs diff=lfs merge=lfs -text
 books/Quantum_Physics_of_Atoms_Molecules_Solids_Nuclei_and_Particles_2nd_Ed.pdf filter=lfs diff=lfs merge=lfs -text
 books/shankar_principles_of_quantum_mechanics.pdf filter=lfs diff=lfs merge=lfs -text
+books/Introduction_to_Quantum_Mechanics-David_J_Griffiths_3rd_Ed.pdf filter=lfs diff=lfs merge=lfs -text
+books/QuantumTheory_For_Mathematicians_Hall_2013.pdf filter=lfs diff=lfs merge=lfs -text
+books/Quantum_Computation_And_Quantum_Information-Nielsen_and_Chuan_10th_Anniv_Ed.pdf filter=lfs diff=lfs merge=lfs -text
+books/The_Feynman_Lectures_on_Quantum_Mechanics_Vol_III.pdf filter=lfs diff=lfs merge=lfs -text
+books/quantumelectrodynamics_feynmann.pdf filter=lfs diff=lfs merge=lfs -text
