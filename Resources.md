@@ -42,6 +42,7 @@
 
 [Uncertainty Principle](https://youtu.be/YgxiSIcfG4E?si=F71YuUPpB2ZnGacy)
 
+[Lecture Notes by Umesh Vazirani, CS294-2: Quantum Computation, UC Berkeley, 2007](https://people.eecs.berkeley.edu/~vazirani/quantum.html)
 
 ### Quantum Physics and Quantum Mechanics Courses
 
