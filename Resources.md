@@ -34,3 +34,6 @@
 
 [MIT 8.04 | Spring 2013 videos](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/video_galleries/lecture-videos/)
 
+[MIT 8.04 | Spring 2013 lecture notes](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/pages/lecture-notes/)
+
+[MIT 8.04 | Spring 2013 readings](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/pages/readings/)
