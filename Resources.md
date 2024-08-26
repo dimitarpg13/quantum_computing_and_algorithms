@@ -10,6 +10,8 @@
 
 [Principles of Quantum Mechanics, R. Shankar, 2nd Edition, 1994](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/shankar_principles_of_quantum_mechanics.pdf)
 
+[Introduction to Quantum Mechanics, David J. Griffiths, Darrel F. Schroeter, 3rd Ed, 2018](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Introduction_to_Quantum_Mechanics-David_J_Griffiths_3rd_Ed.pdf)
+
 ## videos
 
 ### ICTP-SAIFR
