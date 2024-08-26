@@ -12,6 +12,12 @@
 
 [Introduction to Quantum Mechanics, David J. Griffiths, Darrel F. Schroeter, 3rd Ed, 2018](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Introduction_to_Quantum_Mechanics-David_J_Griffiths_3rd_Ed.pdf)
 
+[The Feynman Lectures on Physics: Vol III Quantum Mechanics, 2010](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/The_Feynman_Lectures_on_Quantum_Mechanics_Vol_III.pdf)
+
+[Quantum Electrodynamics, R. Feynman, Lecture Note and Reprint Volume, 1961](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/quantumelectrodynamics_feynmann.pdf)
+
+[Quantum Theory for Mathematicians, Brian C. Hall, 2013](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/QuantumTheory_For_Mathematicians_Hall_2013.pdf)
+
 ## videos
 
 ### ICTP-SAIFR
