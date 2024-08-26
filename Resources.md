@@ -1,5 +1,9 @@
 # Resource on Advances in Quantum Computing, Quantum Information Theory and Related Algorithms
 
+## books
+
+[Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles, R. Eisberg, R. Resnick, 2nd Edition, 1985](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Quantum_Physics_of_Atoms_Molecules_Solids_Nuclei_and_Particles_2nd_Ed.pdf)
+
 
 ## videos
 
