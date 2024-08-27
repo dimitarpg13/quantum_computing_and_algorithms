@@ -11,3 +11,4 @@ articles/Quantum_Probability_and_Quantum_Information_Theory_Maassen.pdf filter=l
 lectures/Vazirani/UCBerkeley_CS-294-2/Fault_tolerance_I-guest_lecture_Ben_Reichardt.pdf filter=lfs diff=lfs merge=lfs -text
 lectures/Vazirani/UCBerkeley_CS-294-2/Fault_tolerance_II-guest_lecture_Ben_Reichardt.pdf filter=lfs diff=lfs merge=lfs -text
 lectures/Preskill/Caltech_Physics-229/LectureNotes_Quantum_Computation_and_Information_Preskill.pdf filter=lfs diff=lfs merge=lfs -text
+lectures/Lectures_on_Quantum_Statistics.pdf filter=lfs diff=lfs merge=lfs -text
