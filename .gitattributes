@@ -12,3 +12,6 @@ lectures/Vazirani/UCBerkeley_CS-294-2/Fault_tolerance_I-guest_lecture_Ben_Reicha
 lectures/Vazirani/UCBerkeley_CS-294-2/Fault_tolerance_II-guest_lecture_Ben_Reichardt.pdf filter=lfs diff=lfs merge=lfs -text
 lectures/Preskill/Caltech_Physics-229/LectureNotes_Quantum_Computation_and_Information_Preskill.pdf filter=lfs diff=lfs merge=lfs -text
 lectures/Lectures_on_Quantum_Statistics.pdf filter=lfs diff=lfs merge=lfs -text
+books/Kinetic_Theory_Of_Gasses_Loeb_1929.pdf filter=lfs diff=lfs merge=lfs -text
+books/The_Feynman_Lectures_on_Physics_VolI.pdf filter=lfs diff=lfs merge=lfs -text
+books/The_Feynman_Lectures_on_Physics_VolII.pdf filter=lfs diff=lfs merge=lfs -text
