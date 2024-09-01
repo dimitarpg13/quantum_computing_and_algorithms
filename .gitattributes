@@ -15,3 +15,4 @@ lectures/Lectures_on_Quantum_Statistics.pdf filter=lfs diff=lfs merge=lfs -text
 books/Kinetic_Theory_Of_Gasses_Loeb_1929.pdf filter=lfs diff=lfs merge=lfs -text
 books/The_Feynman_Lectures_on_Physics_VolI.pdf filter=lfs diff=lfs merge=lfs -text
 books/The_Feynman_Lectures_on_Physics_VolII.pdf filter=lfs diff=lfs merge=lfs -text
+books/Absorption_and_scattering_of_light_by_small_particles_Bohren_1983.pdf filter=lfs diff=lfs merge=lfs -text
