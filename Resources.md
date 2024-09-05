@@ -55,3 +55,7 @@
 [MIT 8.04 | Spring 2013 lecture notes](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/pages/lecture-notes/)
 
 [MIT 8.04 | Spring 2013 readings](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/pages/readings/)
+
+#### Stanford Leo Suskind Modern Physics : Quantum Mechanics
+
+[Leonard Susskind's Modern Physics course concentrating on Quantum Mechanics, 2008 at Stanford University: Full Playlist](https://www.youtube.com/playlist?list=PL84C10A9CB1D13841)
