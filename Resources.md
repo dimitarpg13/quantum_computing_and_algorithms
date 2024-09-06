@@ -34,7 +34,7 @@
 
 #### Lecture 2
 
-[Quibits](https://youtu.be/xGAyI5fufmk?si=17TRTa1Smwi_Kp7t)
+[Qubits](https://youtu.be/xGAyI5fufmk?si=17TRTa1Smwi_Kp7t)
 
 [Geometric Interpretation, part 1](https://youtu.be/xD2iqmI9LzY?si=3EhG_-r14E0zRzIA)
 
