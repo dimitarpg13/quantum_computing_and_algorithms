@@ -60,4 +60,4 @@
 
 [Leonard Susskind's Modern Physics course concentrating on Quantum Mechanics, 2008 at Stanford University: Full Playlist](https://www.youtube.com/playlist?list=PL84C10A9CB1D13841)
 
-[Lecture 1: The Double Slit Experiment, Uncertainty Principle, Quantum System Discussion, Energy of a Photon](https://youtu.be/JzhlfbWBuQ8?si=1QRsNJWhvLeDXF8p)
+[Lecture 1: The Double Slit Experiment, Uncertainty Principle, Quantum Systems, Reversibility of Quantum System Evolution, Energy of a Photon](https://youtu.be/JzhlfbWBuQ8?si=1QRsNJWhvLeDXF8p)
