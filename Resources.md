@@ -18,6 +18,10 @@
 
 [Quantum Theory for Mathematicians, Brian C. Hall, 2013](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/QuantumTheory_For_Mathematicians_Hall_2013.pdf)
 
+## articles
+
+[Quantum Computers Cross Critical Error Threshold, Quanta Magazine, 2024](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
+
 ## videos
 
 ### ICTP-SAIFR
