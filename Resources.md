@@ -2,6 +2,8 @@
 
 ## books
 
+[Quantum Computation and Quantum Information, Michael A. Nielsen, Isaac L. Chuang, 10th Anniversary Edition, 2010](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Quantum_Computation_And_Quantum_Information-Nielsen_and_Chuan_10th_Anniv_Ed.pdf)
+
 [Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles, R. Eisberg, R. Resnick, 2nd Edition, 1985](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Quantum_Physics_of_Atoms_Molecules_Solids_Nuclei_and_Particles_2nd_Ed.pdf)
 
 [Introductory Quantum Mechanics, Richard L. Liboff, 1980](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Liboff-Introductory_Quantum_Mechanics.pdf)
@@ -21,6 +23,8 @@
 ## articles
 
 [Quantum Computers Cross Critical Error Threshold, Quanta Magazine, 2024](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
+
+[Quantum Error Correction, Wikipedia](https://en.wikipedia.org/wiki/Quantum_error_correction)
 
 ## videos
 
