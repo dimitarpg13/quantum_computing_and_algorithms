@@ -2,6 +2,8 @@
 
 ## books
 
+[Quantum Computation and Quantum Information, Michael A. Nielsen, Isaac L. Chuang, 10th Anniversary Edition, 2010](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Quantum_Computation_And_Quantum_Information-Nielsen_and_Chuan_10th_Anniv_Ed.pdf)
+
 [Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles, R. Eisberg, R. Resnick, 2nd Edition, 1985](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Quantum_Physics_of_Atoms_Molecules_Solids_Nuclei_and_Particles_2nd_Ed.pdf)
 
 [Introductory Quantum Mechanics, Richard L. Liboff, 1980](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Liboff-Introductory_Quantum_Mechanics.pdf)
@@ -17,6 +19,12 @@
 [Quantum Electrodynamics, R. Feynman, Lecture Note and Reprint Volume, 1961](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/quantumelectrodynamics_feynmann.pdf)
 
 [Quantum Theory for Mathematicians, Brian C. Hall, 2013](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/QuantumTheory_For_Mathematicians_Hall_2013.pdf)
+
+## articles
+
+[Quantum Computers Cross Critical Error Threshold, Quanta Magazine, 2024](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
+
+[Quantum Error Correction, Wikipedia](https://en.wikipedia.org/wiki/Quantum_error_correction)
 
 ## videos
 
@@ -34,7 +42,7 @@
 
 #### Lecture 2
 
-[Quibits](https://youtu.be/xGAyI5fufmk?si=17TRTa1Smwi_Kp7t)
+[Qubits](https://youtu.be/xGAyI5fufmk?si=17TRTa1Smwi_Kp7t)
 
 [Geometric Interpretation, part 1](https://youtu.be/xD2iqmI9LzY?si=3EhG_-r14E0zRzIA)
 
@@ -55,3 +63,9 @@
 [MIT 8.04 | Spring 2013 lecture notes](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/pages/lecture-notes/)
 
 [MIT 8.04 | Spring 2013 readings](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/pages/readings/)
+
+#### Stanford Leo Suskind Modern Physics : Quantum Mechanics
+
+[Leonard Susskind's Modern Physics course concentrating on Quantum Mechanics, 2008 at Stanford University: Full Playlist](https://www.youtube.com/playlist?list=PL84C10A9CB1D13841)
+
+[Lecture 1: The Double Slit Experiment, Quantum Systems, Reversibility of Quantum System Evolution, Uncertainty Principle, Measuring the Impulse and Position of a Photon, Phase Space and State of Quantum System, Bra/ket Notation](https://youtu.be/JzhlfbWBuQ8?si=1QRsNJWhvLeDXF8p)
