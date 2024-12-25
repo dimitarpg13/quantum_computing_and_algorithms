@@ -26,6 +26,8 @@
 
 [Quantum Error Correction, Wikipedia](https://en.wikipedia.org/wiki/Quantum_error_correction)
 
+[Direct visualization of relativistic quantum scars in graphene quantum dots, Z. Ge et al, Nature, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_chaos/Direct_Visualization_of_Relativistic_Quantum_Scars_2024.pdf)
+
 ## videos
 
 ### ICTP-SAIFR
