@@ -28,6 +28,8 @@
 
 [Direct visualization of relativistic quantum scars in graphene quantum dots, Z. Ge et al, Nature, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_chaos/Direct_Visualization_of_Relativistic_Quantum_Scars_2024.pdf)
 
+[Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
+
 ## videos
 
 ### ICTP-SAIFR
