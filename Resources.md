@@ -28,7 +28,12 @@
 
 [Direct visualization of relativistic quantum scars in graphene quantum dots, Z. Ge et al, Nature, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_chaos/Direct_Visualization_of_Relativistic_Quantum_Scars_2024.pdf)
 
+
+### Quantum Machine Learning 
+
 [Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
+
+[Quantum Machine Learning: A Hands-on Tutorial for Machine Learning Practitioners and Researchers, Y. Du et al, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Machine_Learning_Du_2025.pdf)
 
 ## videos
 
