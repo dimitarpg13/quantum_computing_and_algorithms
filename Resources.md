@@ -30,6 +30,8 @@
 
 [Interferometric Single-Shot Parity Measurement in InAs-Al Hybrid Devices, Microsoft Azure Quantum, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Interferometric_Single-Shot_Parity_Measurement_in_InAs-Al_Hybrid_Devices_MsftAzureQuantum_2024.pdf)
 
+[Microsoft Reports Quantum Computing Breakthrough, Sabine Hossenfelder, Feb 21, 2025](https://youtu.be/NKYxdzSNqzE?si=feqwisJhkTv6JC3n)
+
 ### Quantum Machine Learning 
 
 [Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
