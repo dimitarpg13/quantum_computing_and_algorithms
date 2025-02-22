@@ -28,6 +28,7 @@
 
 [Direct visualization of relativistic quantum scars in graphene quantum dots, Z. Ge et al, Nature, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_chaos/Direct_Visualization_of_Relativistic_Quantum_Scars_2024.pdf)
 
+[Interferometric Single-Shot Parity Measurement in InAs-Al Hybrid Devices, Microsoft Azure Quantum, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Interferometric_Single-Shot_Parity_Measurement_in_InAs-Al_Hybrid_Devices_MsftAzureQuantum_2024.pdf)
 
 ### Quantum Machine Learning 
 
