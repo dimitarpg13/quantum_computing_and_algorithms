@@ -38,6 +38,8 @@
 
 [Quantum Machine Learning: A Hands-on Tutorial for Machine Learning Practitioners and Researchers, Y. Du et al, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Machine_Learning_Du_2025.pdf)
 
+[Learning high-accuracy error decoding for quantum processors, Johannes Bausch et al, Nature, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Learning_high_accuracy_error_decoding_for_quantum_processors_Bausch_2025.pdf)
+
 ## videos
 
 ### ICTP-SAIFR
