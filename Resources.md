@@ -40,6 +40,8 @@
 
 [Learning high-accuracy error decoding for quantum processors, Johannes Bausch et al, Nature, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Learning_high_accuracy_error_decoding_for_quantum_processors_Bausch_2025.pdf)
 
+[AlphaQubit tackles one of quantum computing’s biggest challenges, Google DeepMind blog from Nov 20, 2024](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
+
 ## videos
 
 ### ICTP-SAIFR
