@@ -32,6 +32,9 @@
 
 [Microsoft Reports Quantum Computing Breakthrough, Sabine Hossenfelder, youtube, Feb 21, 2025](https://youtu.be/NKYxdzSNqzE?si=feqwisJhkTv6JC3n)
 
+[Comment on "InAs-Al hybrid devices passing the topological gap protocol", Microsoft Quantum, Phys. Rev. B 107, 245423 (2023)
+](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Comment_on_InAs-Al_hybrid_devices_passing_the_topological_gap_protocol_Legg_2025.pdf)
+
 [Majorana Fireside Chat: How Close Are We to a Topological Qubit? Sergey Frolov, youtube video, March 2025](https://youtu.be/9Ag-L3hZiXo?si=ePhqvbDroCwS9adH)
 
 ### Quantum Machine Learning 
