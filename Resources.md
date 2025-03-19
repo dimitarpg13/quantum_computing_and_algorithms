@@ -32,6 +32,8 @@
 
 [Microsoft Reports Quantum Computing Breakthrough, Sabine Hossenfelder, youtube, Feb 21, 2025](https://youtu.be/NKYxdzSNqzE?si=feqwisJhkTv6JC3n)
 
+[Majorana Fireside Chat: How Close Are We to a Topological Qubit? Sergey Frolov, youtube video, March 2025](https://youtu.be/9Ag-L3hZiXo?si=ePhqvbDroCwS9adH)
+
 ### Quantum Machine Learning 
 
 [Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
