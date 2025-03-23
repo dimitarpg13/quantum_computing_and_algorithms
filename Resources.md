@@ -22,6 +22,12 @@
 
 ## articles
 
+### Quantum Physics
+
+[Discussion on Probability Relations between Separated Systems, Erwin Schroedinger, 1935](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Discussion_of_Probability_Relations_between_Separated_Systems_Schrodinger-1935.pdf)
+
+### Quantum Computing
+
 [Quantum Computers Cross Critical Error Threshold, Quanta Magazine, 2024](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
 
 [Quantum Error Correction, Wikipedia](https://en.wikipedia.org/wiki/Quantum_error_correction)
