@@ -26,6 +26,8 @@
 
 [Discussion on Probability Relations between Separated Systems, Erwin Schroedinger, 1935](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Discussion_of_Probability_Relations_between_Separated_Systems_Schrodinger-1935.pdf)
 
+[Can Quantum-Mechanical Description of Physical Reality Be Considered Complete, A. Einstein, B. Podolsky, N. Rosen, 1935](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Can_Quantum-Mechanical_Description_of_Physical_Reality_Be_Considered_Complete_Einstein_Podolsky_Rosen_1935.pdf)
+
 [On The Einstein - Podolsky - Rosen Paradox, J.S. Bell, 1964](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/On_The_Einstein_Podolsky_Rosen_Paradox_Bell_1935.pdf)
 
 ### Quantum Computing
