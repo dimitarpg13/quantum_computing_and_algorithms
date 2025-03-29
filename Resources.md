@@ -59,6 +59,8 @@
 
 [AlphaQubit tackles one of quantum computing’s biggest challenges, Google DeepMind blog from Nov 20, 2024](https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/)
 
+[QCPINN: Quantum Classical Physics-Informed Neural Networks for Solving PDEs, Afrah Farea, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/QCPINN-Quantum_Classical_Physcis-Informed_Neural_Networks_for_Solving_PDEs_Farea_2025.pdf)
+
 ## videos
 
 ### ICTP-SAIFR
