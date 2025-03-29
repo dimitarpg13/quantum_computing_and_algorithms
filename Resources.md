@@ -47,6 +47,8 @@
 
 [Majorana Fireside Chat: How Close Are We to a Topological Qubit? Sergey Frolov, youtube video, March 2025](https://youtu.be/9Ag-L3hZiXo?si=ePhqvbDroCwS9adH)
 
+[CQ: A high-level imperative classical-quantum programming language, L. Binkowski, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/CQ-A_high-level_imperative_classical-quantum_programming_language_Binkowski_2025.pdf)
+
 ### Quantum Machine Learning 
 
 [Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
