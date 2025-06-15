@@ -23,6 +23,7 @@
 ## articles
 
 ### Quantum Physics
+[On The Theory of Quantum Mechanics, Paul Dirac, 1926](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/On_The_Theory_of_Quantum_Mechanics_Dirac_1925.pdf)
 
 [Discussion on Probability Relations between Separated Systems, Erwin Schroedinger, 1935](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Discussion_of_Probability_Relations_between_Separated_Systems_Schrodinger-1935.pdf)
 
