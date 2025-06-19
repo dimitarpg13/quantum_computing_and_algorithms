@@ -29,6 +29,12 @@
 
 [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete, A. Einstein, B. Podolsky, N. Rosen, 1935](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Can_Quantum-Mechanical_Description_of_Physical_Reality_Be_Considered_Complete_Einstein_Podolsky_Rosen_1935.pdf)
 
+[Interaction with the Absorber as the Mechanism of Radiation, John A. Wheeler, Richard P. Feynman, 1945](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Interaction_with_the_Absorber_as_the_Mechanism_of_Radiation_Wheeler_Feynman_1945.pdf)
+
+[On a Relativisitcally Invariant Formulation of Quantum Theory of Wave Fields, S. Tomonaga, 1946](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/On_Relativistic_Invariant_Formulation_of_Quantum_Theory_of_Wave_Fields_Tomonaga_1946.pdf)
+
+[Space-Time Approach to Non-Relativistic Quantum Mechanics, R. Feynman, 1948](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Space-Time_Approach_to_Non-Relativistic_Quantum_Mechanics_Feynman_1948.pdf)
+
 [The Radiation Theories of Tomonaga, Schwinger, and Feynman, F.J. Dyson, 1949](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/The_Radiation_Theories_of_Tomonaga_Schwinger_and_Feynman_Dyson_1948.pdf)
 
 [On The Einstein - Podolsky - Rosen Paradox, J.S. Bell, 1964](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/On_The_Einstein_Podolsky_Rosen_Paradox_Bell_1935.pdf)
