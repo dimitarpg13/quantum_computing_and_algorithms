@@ -29,7 +29,10 @@
 
 [Can Quantum-Mechanical Description of Physical Reality Be Considered Complete, A. Einstein, B. Podolsky, N. Rosen, 1935](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Can_Quantum-Mechanical_Description_of_Physical_Reality_Be_Considered_Complete_Einstein_Podolsky_Rosen_1935.pdf)
 
+[The Radiation Theories of Tomonaga, Schwinger, and Feynman, F.J. Dyson, 1949](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/The_Radiation_Theories_of_Tomonaga_Schwinger_and_Feynman_Dyson_1948.pdf)
+
 [On The Einstein - Podolsky - Rosen Paradox, J.S. Bell, 1964](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/On_The_Einstein_Podolsky_Rosen_Paradox_Bell_1935.pdf)
+
 
 ### Quantum Computing
 
