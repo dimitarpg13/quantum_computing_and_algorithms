@@ -59,6 +59,8 @@
 
 [CQ: A high-level imperative classical-quantum programming language, L. Binkowski, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/CQ-A_high-level_imperative_classical-quantum_programming_language_Binkowski_2025.pdf)
 
+[Distributed quantum computing across an optical network link, D. Main et al, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/Distributed_quantum_computing_across_an_optical_network_link_Main_2025.pdf)
+
 ### Quantum Machine Learning 
 
 [Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
