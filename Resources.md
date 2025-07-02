@@ -118,3 +118,8 @@
 [Leonard Susskind's Modern Physics course concentrating on Quantum Mechanics, 2008 at Stanford University: Full Playlist](https://www.youtube.com/playlist?list=PL84C10A9CB1D13841)
 
 [Lecture 1: The Double Slit Experiment, Quantum Systems, Reversibility of Quantum System Evolution, Uncertainty Principle, Measuring the Impulse and Position of a Photon, Phase Space and State of Quantum System, Bra/ket Notation](https://youtu.be/JzhlfbWBuQ8?si=1QRsNJWhvLeDXF8p)
+
+
+#### Advanced Quantum Materials
+
+[Advanced Quantum Materials, Jose Lado, 2025](https://www.youtube.com/playlist?list=PLFe4plnPHPtEqEFJL6o6ztgqQjk_81dxo)
