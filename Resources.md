@@ -87,6 +87,14 @@
 
 [The whole series on Quantum Mechanics and Quantum Computation on youtube](https://www.youtube.com/playlist?list=PLAp-VUNhIcBm40hRgg7LKTo8xCkJII3pY)
 
+#### Lecture 1 The Double Slit Experiment
+
+[The Double Slit Experiment Part 1](https://youtu.be/1X7CDd1lvR0?si=dmG7P1MqT1ZYj7Iq)
+
+[The Double Slit Experiment Part 2](https://youtu.be/pHmRp2eGETk?si=ScrSzRszdyklaMlV)
+
+[The Double Slit Experiment Part 3](https://youtu.be/SzC_O13IH2w?si=j8Iu6zi0wgcUV4z-)
+
 #### Lecture 2
 
 [Qubits](https://youtu.be/xGAyI5fufmk?si=17TRTa1Smwi_Kp7t)
@@ -97,11 +105,21 @@
 
 [Uncertainty Principle](https://youtu.be/YgxiSIcfG4E?si=F71YuUPpB2ZnGacy)
 
-#### Lecture 3
+#### Lecture 3 Axioms of Quantum Mechanics, Two Qubits, Entaglement
 
 [K Level Systes, Bra-ket Notation](https://youtu.be/yLgcN7dxEvU?si=0gL-yGSdlr2pqJrV)
 
+[Two Qubits](https://youtu.be/Rq-k40bMECI?si=EIZ8PF2IePPkFTvl)
+
+[Entaglement](https://youtu.be/XTw6Mgu3F9A?si=xp_t8H_-eakGzUgr)
+
+[EPR Paradox](https://youtu.be/Lu8cEBxupXY?si=fUad7eHX0PvWSEXD)
+
 [Lecture Notes by Umesh Vazirani, CS294-2: Quantum Computation, UC Berkeley, 2007](https://people.eecs.berkeley.edu/~vazirani/quantum.html)
+
+#### Lecture 4 Bell Inequalities
+
+[Bell and EPR](https://youtu.be/12aqJErA0vA?si=QCklqYpcb64yc3_a)
 
 ### Quantum Physics and Quantum Mechanics Courses
 
