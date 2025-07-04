@@ -95,7 +95,7 @@
 
 [The Double Slit Experiment Part 3](https://youtu.be/SzC_O13IH2w?si=j8Iu6zi0wgcUV4z-)
 
-#### Lecture 2
+#### Lecture 2 Qubits and Uncertainty Principle
 
 [Qubits](https://youtu.be/xGAyI5fufmk?si=17TRTa1Smwi_Kp7t)
 
