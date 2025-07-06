@@ -42,6 +42,8 @@
 
 ### Quantum Computing
 
+[Systematic benchmarking of quantum computers: status and recommendations, J.M. Lorenz et al, Fraunhofer Institute for Cognitive Systems, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/Systematic_benchmarking_of_quantum_computers-status_and_recommendations_Lorenz_2025.pdf)
+
 [Quantum Computers Cross Critical Error Threshold, Quanta Magazine, 2024](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
 
 [Quantum Error Correction, Wikipedia](https://en.wikipedia.org/wiki/Quantum_error_correction)
