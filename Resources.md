@@ -71,6 +71,8 @@
 
 [Classical simulation of circuits with realistic Gottesman-Kitaev-Preskill states, Cameron Calcluth et al, Chalmers Institute of Technology, U. of Tokyo, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/Classical_simulation_of_circuits_with_realistic_Gottesman-Kitaev-Preskill_states_Calcluth_2024.pdf)
 
+[Quantum teleportation coexisting with classical communications in optical fiber, Jordan M. Thomas et al, Northwestern U., 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/Quantum_teleportation_coexisting_with_classical_communications_in_optical_fiber_Thomas_2024.pdf)
+
 ### Quantum Machine Learning 
 
 [Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
