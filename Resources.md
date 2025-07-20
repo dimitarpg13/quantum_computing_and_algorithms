@@ -67,6 +67,10 @@
 
 [Distributed quantum computing across an optical network link, D. Main et al, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/Distributed_quantum_computing_across_an_optical_network_link_Main_2025.pdf)
 
+[Scientists Just Simulated the “Impossible” in Quantum Computing, Chalmers Institute of Technology, July, 2025](https://scitechdaily.com/scientists-just-simulated-the-impossible-in-quantum-computing/?fbclid=IwY2xjawLplr5leHRuA2FlbQIxMQABHnk1lYNoVF2Xct1CgEgK5SV28vr3RLfEJvMDj8Zy_Fs2ZRfuAHQRJ-tioI2l_aem_J5NMero7zyF3FBOXOt4Bcg)
+
+[Classical simulation of circuits with realistic Gottesman-Kitaev-Preskill states, Cameron Calcluth et al, Chalmers Institute of Technology, U. of Tokyo, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/Classical_simulation_of_circuits_with_realistic_Gottesman-Kitaev-Preskill_states_Calcluth_2024.pdf)
+
 ### Quantum Machine Learning 
 
 [Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
