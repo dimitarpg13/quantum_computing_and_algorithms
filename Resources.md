@@ -18,6 +18,10 @@
 
 [Quantum Electrodynamics, R. Feynman, Lecture Note and Reprint Volume, 1961](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/quantumelectrodynamics_feynmann.pdf)
 
+[Mathematical Foundations of Quantum Mechanics, New Edition, John von Neumann, edited by Nicholas A. Wheeler, 2018](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Mathematical_Foundations_of_Quantum_Mechanics_New_Edition_von_Neumann_2018.pdf)
+
+[The Mathematical Foundations of Quantum Mechanics, Lecture-Note Volume, George W. Mackey, 2018](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Mathematical_Foundations_of_Quantum_Mechanics_George_Mackey_1963.pdf)
+
 [Quantum Theory for Mathematicians, Brian C. Hall, 2013](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/QuantumTheory_For_Mathematicians_Hall_2013.pdf)
 
 ## articles
