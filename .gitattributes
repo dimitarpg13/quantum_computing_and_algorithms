@@ -36,3 +36,4 @@ books/Mathematical_Foundations_of_Quantum_Mechanics_New_Edition_von_Neumann_2018
 books/Mathematical_Foundations_of_Quantum_Mechanics_George_Mackey_1963.pdf filter=lfs diff=lfs merge=lfs -text
 articles/quantum_computing/Simulating_physics_with_computers_feynman-quantum-1981.pdf filter=lfs diff=lfs merge=lfs -text
 articles/quantum_AI/QDataSet_quantum_datasets_for_machine_learning_Elija_Perrier_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/quantum_AI/Trainable_embedding_quantum_physics_informed_neural_networks_for_solving_nonlinear_PDEs_Berger_2025.pdf filter=lfs diff=lfs merge=lfs -text
