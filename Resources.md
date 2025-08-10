@@ -93,6 +93,12 @@
 
 [QCPINN: Quantum Classical Physics-Informed Neural Networks for Solving PDEs, Afrah Farea, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/QCPINN-Quantum_Classical_Physcis-Informed_Neural_Networks_for_Solving_PDEs_Farea_2025.pdf)
 
+[Trainable embedding quantum physics informed neural networks for solving nonlinear PDEs, Stefan Berger et al, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Trainable_embedding_quantum_physics_informed_neural_networks_for_solving_nonlinear_PDEs_Berger_2025.pdf)
+
+[QDataSet, quantum datasets for machine learning, Elija Perrier et al, 2022](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/QDataSet_quantum_datasets_for_machine_learning_Elija_Perrier_2025.pdf)
+
+[Note by Elija Perrier on Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:7359604848197054465?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7359604848197054465%2C7359610718180069376%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287359610718180069376%2Curn%3Ali%3AugcPost%3A7359604848197054465%29)
+
 ## videos
 
 ### ICTP-SAIFR
