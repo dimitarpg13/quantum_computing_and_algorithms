@@ -81,6 +81,26 @@
 
 [Simulating Physics with Computers, Richard P. Feynmann, 1982](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/Simulating_physics_with_computers_feynman-quantum-1981.pdf)
 
+### Quantum Information and Quantum Statistics
+
+[Developments in Quantum Probability and the Copenhagen Approach, Gregg Jaeger, Boston University, 2018](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/Developments_in_Quantum_Probability_and_the_Copenhagen_Approach_Gregg_Jaeger_BostonU_2018.pdf)
+
+[Quantum mechanics as a statistical theory: a short history and a worked example, Yves Pomeau and Martine Le Berre, 2018](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/Quantum_mechanics_as_a_statistical_theory-a_short_history_and_a_worked_example_Pomeau_2018.pdf)
+
+[Quantum Measurement, Probability, and Logic, Chapter of G. Jaeger, Entanglement, Information, and the Interpretation of Quantum Mechanics, 2009](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/Quantum_Measurement_Probability_and_Logic.pdf)
+
+[Quantum probability: an historical survey, Luigi Accardi, 2000](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/Quantum_Probability_An_Historical_Survey_Luigi_Arcadi.pdf)
+
+[Quantum Probability and Quantum Information Theory, Hans Maassen, 2010](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/Quantum_Probability_and_Quantum_Information_Theory_Maassen.pdf)
+
+[A detailed interpretation of probability, and its link with quantum mechanics, Louis Vervoort, Université de Montréal, 2010](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/A_detailed_interpretation_of_probability_Vervoort_2010.pdf)
+
+[On reconstructing parts of quantum theory from two related maximal conceptual variables, Inge S. Helland, U. of Oslo, 2022](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/On_reconstructing_parts_of_quantum_theory_from_two_related_maximal_conceptual_variables.pdf)
+
+[On the strangeness of quantum probabilities, Marcello Poletti, 2023](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/On_the_strangeness_of_quantum_probabilities_Poletti_2023.pdf)
+
+
+
 ### Quantum Machine Learning 
 
 [Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
