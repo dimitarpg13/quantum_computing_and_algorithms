@@ -47,6 +47,8 @@
 
 [On The Einstein - Podolsky - Rosen Paradox, J.S. Bell, 1964](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/On_The_Einstein_Podolsky_Rosen_Paradox_Bell_1935.pdf)
 
+[A Delayed Choice Quantum Eraser, Yoon-Ho Kim et al, University of Maryland, 1999](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/A_Delayed_Choice_Quantum_Eraser_Yoon-Ho_Kim_1999.pdf)
+
 [Von Neumann’s 1927 Trilogy on the Foundations of Quantum Mechanics. Annotated Translations, Anthony Duncan, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Von_Neumann_1927_Trilogy_on_the_Foundations_of_Quantum_Mechanics_Annotated_Translations.pdf)
 
 
