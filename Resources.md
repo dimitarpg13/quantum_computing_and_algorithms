@@ -189,3 +189,11 @@
 #### Advanced Quantum Materials
 
 [Advanced Quantum Materials, Jose Lado, 2025](https://www.youtube.com/playlist?list=PLFe4plnPHPtEqEFJL6o6ztgqQjk_81dxo)
+
+### PBS Space Time
+
+[The Quantum Experiment that Broke Reality, Matt O'Dowd, PBS Space Time, Jul 27, 2016](https://www.youtube.com/watch?v=p-MNSLsjjdo)
+
+[How the Quantum Eraser Rewrites the Past, Matt O'Dowd, PBS Space Time, Aug 10, 2016](https://www.youtube.com/watch?v=8ORLN_KwAgs)
+
+[Quantum Entanglement and the Great Bohr-Einstein Debate, Matt O'Dowd, PBS Space Time, Sep 21, 2016](https://www.youtube.com/watch?v=tafGL02EUOA)
