@@ -188,6 +188,10 @@
 [Lecture 1: The Double Slit Experiment, Quantum Systems, Reversibility of Quantum System Evolution, Uncertainty Principle, Measuring the Impulse and Position of a Photon, Phase Space and State of Quantum System, Bra/ket Notation](https://youtu.be/JzhlfbWBuQ8?si=1QRsNJWhvLeDXF8p)
 
 
+#### Stanford Online Quantum Mechanics for Scientists and Engineers
+
+[StanfordOnline SOE-YEEQMSE01 Quantum Mechanics for Scientists and Engineers 1](https://learning.edx.org/course/course-v1:StanfordOnline+SOE-YEEQMSE01+1T2023/home)
+
 #### Advanced Quantum Materials
 
 [Advanced Quantum Materials, Jose Lado, 2025](https://www.youtube.com/playlist?list=PLFe4plnPHPtEqEFJL6o6ztgqQjk_81dxo)
