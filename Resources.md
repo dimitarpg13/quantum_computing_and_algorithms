@@ -199,3 +199,10 @@
 [How the Quantum Eraser Rewrites the Past, Matt O'Dowd, PBS Space Time, Aug 10, 2016](https://www.youtube.com/watch?v=8ORLN_KwAgs)
 
 [Quantum Entanglement and the Great Bohr-Einstein Debate, Matt O'Dowd, PBS Space Time, Sep 21, 2016](https://www.youtube.com/watch?v=tafGL02EUOA)
+
+### more videos
+
+[What is the Ultraviolet Catastrophe? Physics Explained](https://www.youtube.com/watch?v=rCfPQLVzus4)
+
+[Quantum Entanglement & Spooky Action at a Distance, Veritasium](https://www.youtube.com/watch?v=ZuvK-od647c)
+
