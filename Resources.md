@@ -93,6 +93,8 @@
 
 [Quantum probability: an historical survey, Luigi Accardi, 2000](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/Quantum_Probability_An_Historical_Survey_Luigi_Arcadi.pdf)
 
+[Emergence of quantum mechanics from classical statistics, C. Wetterich, 2009](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/Emergence_of_quantum_mechanics_from_classical_statistics_Wetterich_2009.pdf)
+
 [Quantum Probability and Quantum Information Theory, Hans Maassen, 2010](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/Quantum_Probability_and_Quantum_Information_Theory_Maassen.pdf)
 
 [A detailed interpretation of probability, and its link with quantum mechanics, Louis Vervoort, Université de Montréal, 2010](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_information/A_detailed_interpretation_of_probability_Vervoort_2010.pdf)
