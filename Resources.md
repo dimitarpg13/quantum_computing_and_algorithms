@@ -212,3 +212,5 @@
 
 [Quantum Entanglement & Spooky Action at a Distance, Veritasium](https://www.youtube.com/watch?v=ZuvK-od647c)
 
+[But What Actually Is the Higgs Boson!? It’s Not What You’ve Been Told, Physics Explained](https://www.youtube.com/watch?v=npYo7ee_fr0)
+
