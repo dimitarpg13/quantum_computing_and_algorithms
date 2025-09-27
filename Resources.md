@@ -24,6 +24,8 @@
 
 [Quantum Theory for Mathematicians, Brian C. Hall, 2013](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/QuantumTheory_For_Mathematicians_Hall_2013.pdf)
 
+[Physics and Philosophy: The Revolution in Modern Science, Werner Heisenberg, 1958](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/books/Physics_and_Philosophy_the_Revolution_in_Modern_Science_Heiseinberg_1958.pdf)
+
 ## articles
 
 ### Quantum Physics
