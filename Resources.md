@@ -139,6 +139,12 @@
 
 [Dario Rosa: An introduction to quantum computing - Class 3, Perimeter-SAIFR-IFT Journeys into Theoretical Physics, July 22-28, 2024](https://youtu.be/jBUz1S2nWxU?si=HrO95q09q4_gOjTv)
 
+#### Anderson localization in quantum systems
+
+[Antonello Scardicchio (ICTP, Italy): Disorder in quantum systems: Anderson Localization and Many-Body Localization, Class 1, Sep 17, 2025](https://youtu.be/545CS2saqjM?si=mcoBn9F-5Ln8SmZD)
+
+[Antonello Scardicchio (ICTP, Italy): Disorder in quantum systems: Anderson Localization and Many-Body Localization, Class 2, Sep 19, 2025](https://youtu.be/VXVCSsmAsH4?si=FWlo6XS53_pSF9OW)
+
 ### UC Berkeley - Umesh Vazirani
 
 [The whole series on Quantum Mechanics and Quantum Computation on youtube](https://www.youtube.com/playlist?list=PLAp-VUNhIcBm40hRgg7LKTo8xCkJII3pY)
