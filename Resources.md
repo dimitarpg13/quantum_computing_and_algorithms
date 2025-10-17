@@ -226,3 +226,5 @@
 
 [But What Actually Is the Higgs Boson!? It’s Not What You’ve Been Told, Physics Explained](https://www.youtube.com/watch?v=npYo7ee_fr0)
 
+[The EPR Paradox, Einstein's Critique of Quantum Physics, Richard Behiel, Oct 16, 2025](https://www.youtube.com/watch?v=D6zJR5d2bs0)
+
