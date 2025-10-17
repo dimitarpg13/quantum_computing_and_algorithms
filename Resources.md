@@ -230,3 +230,5 @@
 
 [The EPR Paradox, Einstein's Critique of Quantum Physics, Richard Behiel, Oct 16, 2025](https://www.youtube.com/watch?v=D6zJR5d2bs0)
 
+[Gibbs Free Energy, Bozeman Science, Jun 29, 2011](https://www.youtube.com/watch?v=DPjMPeU5OeM)
+
