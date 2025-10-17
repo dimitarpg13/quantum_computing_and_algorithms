@@ -218,6 +218,8 @@
 
 [Quantum Entanglement and the Great Bohr-Einstein Debate, Matt O'Dowd, PBS Space Time, Sep 21, 2016](https://www.youtube.com/watch?v=tafGL02EUOA)
 
+[We Were WRONG About the Quantum Eraser! ft. ‪@LookingGlassUniverse‬, PBS Space Time, Oct 16, 2025](https://www.youtube.com/watch?v=sc7FlWUAnzA)
+
 ### more videos
 
 [What is the Ultraviolet Catastrophe? Physics Explained](https://www.youtube.com/watch?v=rCfPQLVzus4)
