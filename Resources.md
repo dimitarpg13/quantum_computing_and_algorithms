@@ -56,6 +56,12 @@
 
 ### Quantum Computing
 
+[Our Quantum Echoes algorithm is a big step toward real-world applications for quantum computing, Hartmut Neven et al, Google blog, 2025](https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/)
+
+[A verifiable quantum advantage, Xiao Mi and Kostyantyn Kechedzhi, Research Scientists, Google Quantum AI, blog, 2025](https://research.google/blog/a-verifiable-quantum-advantage/?utm_source=linkedin&utm_medium=social&utm_campaign=social_post&utm_content=leadership)
+
+[Observation of constructive interference at the edge of quantum ergodicity, Google Quantum AI, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/Observation_of_constructive_interference_at_the_edge_of_quantum_ergodicity_Google_Quantum_AI_2025.pdf)
+
 [Systematic benchmarking of quantum computers: status and recommendations, J.M. Lorenz et al, Fraunhofer Institute for Cognitive Systems, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_computing/Systematic_benchmarking_of_quantum_computers-status_and_recommendations_Lorenz_2025.pdf)
 
 [Quantum Computers Cross Critical Error Threshold, Quanta Magazine, 2024](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
