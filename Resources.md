@@ -238,3 +238,29 @@
 
 [Gibbs Free Energy, Bozeman Science, Jun 29, 2011](https://www.youtube.com/watch?v=DPjMPeU5OeM)
 
+#### Sabine Hossenfelder 
+
+[Understanding Quantum Mechanics #1: It’s not about discreteness, Sabine Hossenfelder, Apr 24, 2020](https://www.youtube.com/watch?v=XJSfgE9LUJw)
+
+[Understanding Quantum Mechanics #2: Superposition and Entanglement, Sabine Hossenfelder, May 15, 2020](https://www.youtube.com/watch?v=j6Mw3_tOcNI&t=10s)
+
+[Understanding Quantum Mechanics #3: Non-locality, Sabine Hossenfelder, May 29, 2020](https://www.youtube.com/watch?v=XL9wWeEmQvo)
+
+[Understanding Quantum Mechanics #4: It's not so difficult!, Sabine Hossenfelder, Jul 18, 2020](https://www.youtube.com/watch?v=ctXDXABJRtg)
+
+[Understanding Quantum Mechanics #5: Decoherence, Sabine Hossenfelder, Aug 15, 2020](https://www.youtube.com/watch?v=igsuIuI_HAQ)
+
+[Understanding Quantum Mechanics #6: It's not just a theory for small things, Sabine Hossenfelder, Sep 26, 2020](https://www.youtube.com/watch?v=HSIvPUMX1pk)
+
+[Understanding Quantum Mechanics #7: Atomic Energy Levels, Sabine Hossenfelder, Nov 7, 2020](https://www.youtube.com/watch?v=LBTNKzZLo-s)
+
+[Understanding Quantum Mechanics #8: The Tunnel Effect, Sabine Hossenfelder, Nov 14, 2020](https://www.youtube.com/watch?v=BJA_faoIFco&t=54s)
+
+[Understanding Quantum Mechanics: Schrödinger's Cat Experiments, Sabine Hossenfelder, Feb 27, 2021](https://www.youtube.com/watch?v=GerzZ6GDe-0)
+
+[What did Einstein mean by “Spooky Action at a Distance"? Sabine Hossenfelder, May 8, 2021](https://www.youtube.com/watch?v=Dl6DyYqPKME)
+
+[The Delayed Choice Quantum Eraser, Debunked, Sabine Hossenfelder, Oct 30, 2021](https://www.youtube.com/watch?v=RQv5CVELG3U)
+
+[The Uncertainty Principle: What Does It Mean, How Does It Work? Sabine Hossenfelder, Dec 10, 2022](https://www.youtube.com/watch?v=qC0UWxgyDD0)
+
