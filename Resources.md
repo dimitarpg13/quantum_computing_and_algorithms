@@ -47,6 +47,8 @@
 
 [The Radiation Theories of Tomonaga, Schwinger, and Feynman, F.J. Dyson, 1949](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/The_Radiation_Theories_of_Tomonaga_Schwinger_and_Feynman_Dyson_1948.pdf)
 
+[Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction, R.P. Feynmann, 1950](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/Mathematical_Formulation_of_the_Quantum_Theory_of_Electromagnetic_Interaction_Feynman_1950.pdf)
+
 [On The Einstein - Podolsky - Rosen Paradox, J.S. Bell, 1964](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/On_The_Einstein_Podolsky_Rosen_Paradox_Bell_1935.pdf)
 
 [A Delayed Choice Quantum Eraser, Yoon-Ho Kim et al, University of Maryland, 1999](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/A_Delayed_Choice_Quantum_Eraser_Yoon-Ho_Kim_1999.pdf)
