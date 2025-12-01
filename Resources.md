@@ -133,6 +133,8 @@
 
 [Note by Elija Perrier on Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:7359604848197054465?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7359604848197054465%2C7359610718180069376%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287359610718180069376%2Curn%3Ali%3AugcPost%3A7359604848197054465%29)
 
+[Quantum speedup for nonreversible Markov chains, Baptiste Claudon et al, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_speedup_for_nonreversible_Markov_chains_Claudon_2025.pdf)
+
 ### Quantum Optimization
 
 [Quantum Optimization Benchmarking Library The Intractable Decathlon, Thorsten Koch et al, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_optimization/Quantum_Optimization_Benchmarking_Library_The_Intractable_Decathlon_Koch_2025.pdf)
