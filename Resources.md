@@ -211,6 +211,9 @@
 
 [Lecture 1: The Double Slit Experiment, Quantum Systems, Reversibility of Quantum System Evolution, Uncertainty Principle, Measuring the Impulse and Position of a Photon, Phase Space and State of Quantum System, Bra/ket Notation](https://youtu.be/JzhlfbWBuQ8?si=1QRsNJWhvLeDXF8p)
 
+#### QED Prerequisite Topics
+
+[QED Prerequisite Topics, series of 81 lectures, 2021](https://www.youtube.com/playlist?list=PLRlVmXqzHjURrQfMx6o_Ji0926mPKkzOw)
 
 #### Stanford Online Quantum Mechanics for Scientists and Engineers
 
