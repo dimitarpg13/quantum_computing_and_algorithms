@@ -215,7 +215,7 @@
 
 #### MIT 8.06 Quantum Physics III, Spring 2018
 
-[MIT 8.06 Quantum Physics III, Spring 2018 complete list of lectures (100 videos)](ttps://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
+[MIT 8.06 Quantum Physics III, Spring 2018 complete list of lectures (100 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
 
 #### Stanford Leo Suskind Modern Physics : Quantum Mechanics
 
