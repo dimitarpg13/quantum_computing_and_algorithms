@@ -195,7 +195,7 @@
 
 ### Quantum Physics and Quantum Mechanics Courses
 
-#### MIT 8.04 | Spring 2013 
+#### MIT 8.04 Quantum Physics I | Spring 2013 
 
 [MIT 8.04 | Spring 2013 main page](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/)
 
@@ -204,6 +204,18 @@
 [MIT 8.04 | Spring 2013 lecture notes](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/pages/lecture-notes/)
 
 [MIT 8.04 | Spring 2013 readings](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/pages/readings/)
+
+#### MIT 8.04 Quantum Physics I | Spring 2016
+
+[MIT 8.04 Quantum Physics I, Spring 2016 complete list of lectures (115 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
+
+#### MIT 8.05 Quantum Physics II, Fall 2013
+
+[MIT 8.05 Quantum Physics II, Fall 2013 complete list of lectures (26 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx)
+
+#### MIT 8.06 Quantum Physics III, Spring 2018
+
+[MIT 8.06 Quantum Physics III, Spring 2018 complete list of lectures (100 videos)](ttps://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
 
 #### Stanford Leo Suskind Modern Physics : Quantum Mechanics
 
@@ -244,6 +256,10 @@
 [The EPR Paradox, Einstein's Critique of Quantum Physics, Richard Behiel, Oct 16, 2025](https://www.youtube.com/watch?v=D6zJR5d2bs0)
 
 [Gibbs Free Energy, Bozeman Science, Jun 29, 2011](https://www.youtube.com/watch?v=DPjMPeU5OeM)
+
+[Something Weird Happens When E=−mc², Veritasium](https://www.youtube.com/watch?v=Y-W-w8yNiKU)
+
+[The Curves that Break Encryption, Another Roof](https://www.youtube.com/watch?v=ihBWwjVDnEk)
 
 #### Sabine Hossenfelder 
 
