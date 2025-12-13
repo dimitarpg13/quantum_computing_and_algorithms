@@ -229,6 +229,8 @@
 
 [The origin of Hamiltonian Mechanics, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=m-r1ji9zRVI)
 
+[Symmetry in physics and Noether’s theorem, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=rtqHlDwCk-g)
+
 #### QED Prerequisite Topics
 
 [QED Prerequisite Topics, series of 81 lectures, 2021](https://www.youtube.com/playlist?list=PLRlVmXqzHjURrQfMx6o_Ji0926mPKkzOw)
