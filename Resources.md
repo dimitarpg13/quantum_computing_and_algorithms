@@ -207,15 +207,15 @@
 
 #### MIT 8.04 Quantum Physics I | Spring 2016
 
-[MIT 8.04 Quantum Physics I, Spring 2016 complete list of lectures (115 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
+[MIT 8.04 Quantum Physics I, Barton Zwiebach, Spring 2016 complete list of lectures (115 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
 
 #### MIT 8.05 Quantum Physics II, Fall 2013
 
-[MIT 8.05 Quantum Physics II, Fall 2013 complete list of lectures (26 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx)
+[MIT 8.05 Quantum Physics II, Barton Zwiebach, Fall 2013 complete list of lectures (26 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx)
 
 #### MIT 8.06 Quantum Physics III, Spring 2018
 
-[MIT 8.06 Quantum Physics III, Spring 2018 complete list of lectures (100 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
+[MIT 8.06 Quantum Physics III, Barton Zwiebach, Spring 2018 complete list of lectures (100 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
 
 #### Stanford Leo Suskind Modern Physics : Quantum Mechanics
 
