@@ -251,11 +251,11 @@
 
 [Quantum Entanglement & Spooky Action at a Distance, Veritasium](https://www.youtube.com/watch?v=ZuvK-od647c)
 
-[Bell's Theorem, a Glitch in Reality, Richard Behiel](https://www.youtube.com/watch?v=g69cW_Xt4EM)
+[The EPR Paradox, Einstein's Critique of Quantum Physics, Richard Behiel, Oct 16, 2025](https://www.youtube.com/watch?v=D6zJR5d2bs0)
+
+[Bell's Theorem, a Glitch in Reality, Richard Behiel, Dec 12, 2025](https://www.youtube.com/watch?v=g69cW_Xt4EM)
 
 [But What Actually Is the Higgs Boson!? It’s Not What You’ve Been Told, Physics Explained](https://www.youtube.com/watch?v=npYo7ee_fr0)
-
-[The EPR Paradox, Einstein's Critique of Quantum Physics, Richard Behiel, Oct 16, 2025](https://www.youtube.com/watch?v=D6zJR5d2bs0)
 
 [Gibbs Free Energy, Bozeman Science, Jun 29, 2011](https://www.youtube.com/watch?v=DPjMPeU5OeM)
 
