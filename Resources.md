@@ -223,6 +223,12 @@
 
 [Lecture 1: The Double Slit Experiment, Quantum Systems, Reversibility of Quantum System Evolution, Uncertainty Principle, Measuring the Impulse and Position of a Photon, Phase Space and State of Quantum System, Bra/ket Notation](https://youtu.be/JzhlfbWBuQ8?si=1QRsNJWhvLeDXF8p)
 
+#### Analytical Mechanics
+
+[Lagrangian Mechanics: when theoretical physics got real, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=QbnkIdw0HJQ)
+
+[The origin of Hamiltonian Mechanics, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=m-r1ji9zRVI)
+
 #### QED Prerequisite Topics
 
 [QED Prerequisite Topics, series of 81 lectures, 2021](https://www.youtube.com/playlist?list=PLRlVmXqzHjURrQfMx6o_Ji0926mPKkzOw)
