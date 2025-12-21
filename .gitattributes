@@ -49,3 +49,4 @@ articles/Formal_link_between_thermodynamics_and_the_quantum_realm_Plastino_2025.
 articles/quantum_darwinism/Quantum_Darwinism_Zurek_2009.pdf filter=lfs diff=lfs merge=lfs -text
 articles/quantum_darwinism/Observation_of_Quantum_Darwinism_and_the_Origin_of_Classicality_with_Superconducting_Circuits_Zhu_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/quantum_computing/Quantum_speedup_for_nonreversible_Markov_chains_Claudon_2025.pdf filter=lfs diff=lfs merge=lfs -text
+articles/quantum_AI/Quantum_speedup_for_nonreversible_Markov_chains_Claudon_2025.pdf filter=lfs diff=lfs merge=lfs -text
