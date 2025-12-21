@@ -115,7 +115,7 @@
 
 
 
-### Quantum Machine Learning 
+### Quantum Machine Learning and AI
 
 [Quantum Artificial Intelligence: A Brief Survey, M. Klusch et al, 2024](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_Artificial_Intelligence-A_Brief_Survey_Klusch_2025.pdf)
 
@@ -134,6 +134,8 @@
 [Note by Elija Perrier on Linkedin](https://www.linkedin.com/feed/update/urn:li:ugcPost:7359604848197054465?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7359604848197054465%2C7359610718180069376%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287359610718180069376%2Curn%3Ali%3AugcPost%3A7359604848197054465%29)
 
 [Quantum speedup for nonreversible Markov chains, Baptiste Claudon et al, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Quantum_speedup_for_nonreversible_Markov_chains_Claudon_2025.pdf)
+
+[Artificial intelligence for quantum computing, Yuri Alexeev et al, 2025](https://github.com/dimitarpg13/quantum_computing_and_algorithms/blob/main/articles/quantum_AI/Artificial_intelligence_for_quantum_computing_Alexeev_2025.pdf)
 
 ### Quantum Optimization
 
