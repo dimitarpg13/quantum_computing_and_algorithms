@@ -231,6 +231,8 @@
 
 [The origin of Hamiltonian Mechanics, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=m-r1ji9zRVI)
 
+[Phase Space and the geometry of Hamiltonian mechanics, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=IVQRfHAgLxk)
+
 [Symmetry in physics and Noether’s theorem, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=rtqHlDwCk-g)
 
 #### QED Prerequisite Topics
