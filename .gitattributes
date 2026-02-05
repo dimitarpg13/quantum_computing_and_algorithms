@@ -51,3 +51,4 @@ articles/quantum_darwinism/Observation_of_Quantum_Darwinism_and_the_Origin_of_Cl
 articles/quantum_computing/Quantum_speedup_for_nonreversible_Markov_chains_Claudon_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/quantum_AI/Quantum_speedup_for_nonreversible_Markov_chains_Claudon_2025.pdf filter=lfs diff=lfs merge=lfs -text
 articles/quantum_AI/Artificial_intelligence_for_quantum_computing_Alexeev_2025.pdf filter=lfs diff=lfs merge=lfs -text
+books/Gravity_Intro_to_Einsteins_General_Relativity_Hartle_2003.pdf filter=lfs diff=lfs merge=lfs -text
