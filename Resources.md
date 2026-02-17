@@ -235,6 +235,8 @@
 
 [Symmetry in physics and Noether’s theorem, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=rtqHlDwCk-g)
 
+[The bridge to quantum mechanics, Dr. Jorge S. Diaz, 2026](https://www.youtube.com/watch?v=wVqqj6N_7RA)
+
 #### QED Prerequisite Topics
 
 [QED Prerequisite Topics, series of 81 lectures, 2021](https://www.youtube.com/playlist?list=PLRlVmXqzHjURrQfMx6o_Ji0926mPKkzOw)
@@ -260,6 +262,8 @@
 ### more videos
 
 [What is the Ultraviolet Catastrophe? Physics Explained](https://www.youtube.com/watch?v=rCfPQLVzus4)
+
+[The bridge to quantum mechanics, Dr. Jorge S. Diaz, 2026](https://www.youtube.com/watch?v=wVqqj6N_7RA)
 
 [Quantum Entanglement & Spooky Action at a Distance, Veritasium](https://www.youtube.com/watch?v=ZuvK-od647c)
 
