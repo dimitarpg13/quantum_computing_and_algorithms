@@ -225,7 +225,7 @@
 
 [Lecture 1: The Double Slit Experiment, Quantum Systems, Reversibility of Quantum System Evolution, Uncertainty Principle, Measuring the Impulse and Position of a Photon, Phase Space and State of Quantum System, Bra/ket Notation](https://youtu.be/JzhlfbWBuQ8?si=1QRsNJWhvLeDXF8p)
 
-#### Analytical Mechanics
+#### Bridging Analytical Mechanics and Quantum Mechanics: Jose S. Diaz
 
 [Lagrangian Mechanics: when theoretical physics got real, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=QbnkIdw0HJQ)
 
@@ -236,6 +236,9 @@
 [Symmetry in physics and Noether’s theorem, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=rtqHlDwCk-g)
 
 [The bridge to quantum mechanics, Dr. Jorge S. Diaz, 2026](https://www.youtube.com/watch?v=wVqqj6N_7RA)
+
+[
+The three-body problem and Quantum theory, Dr. Jorge S. Diaz, 2026](https://www.youtube.com/watch?v=i_3d_IGJW6A)
 
 #### QED Prerequisite Topics
 
