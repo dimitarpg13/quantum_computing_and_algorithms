@@ -235,10 +235,13 @@
 
 [Symmetry in physics and Noether’s theorem, Dr. Jorge S. Diaz, 2025](https://www.youtube.com/watch?v=rtqHlDwCk-g)
 
+[Poisson bracket: a step before Quantum Mechanics, Dr. Jorge S. Diaz, 2026](https://www.youtube.com/watch?v=Be3vSBTPTTI)
+
 [The bridge to quantum mechanics, Dr. Jorge S. Diaz, 2026](https://www.youtube.com/watch?v=wVqqj6N_7RA)
 
-[
-The three-body problem and Quantum theory, Dr. Jorge S. Diaz, 2026](https://www.youtube.com/watch?v=i_3d_IGJW6A)
+[The three-body problem and Quantum theory, Dr. Jorge S. Diaz, 2026](https://www.youtube.com/watch?v=i_3d_IGJW6A)
+
+[Dirac's Quantum Mechanics, Dr. Jorge S. Diaz, 2026](https://www.youtube.com/watch?v=Ei7wLx8k8bs)
 
 #### QED Prerequisite Topics
 
